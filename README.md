@@ -15,6 +15,7 @@ If you only wanted coffee and cream it would be $2.40
 **Requirements**
 
 * solution must accept additions of up 3 different ingredients that would make up your custom coffee
+* ingreditents can have a set value but at least one ingreditent should be a percentage
 * solution should give total cost of the coffee for *n* number of ingreditents.
 * **solution should be an implemination of a decorator pattern**
 
