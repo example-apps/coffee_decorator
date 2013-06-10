@@ -10,6 +10,7 @@ This is a code challenge anyone can join in. The goal is to create your own solu
 * To add sugar to the coffee it is $0.50
 
 If you had a coffee with everything it would cost $2.90
+
 If you only wanted coffee and cream it would be $2.40
 
 **Requirements**
