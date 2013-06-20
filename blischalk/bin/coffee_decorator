@@ -4,4 +4,4 @@ require 'percentage_priced_addition'
 require 'product'
 
 # Add as many decorators as desired...
-p FixedPricedAddition.new(PercentagePricedAddition.new(Product.new('Coffee', 2.00), 'Cream', 0.20).price
+p FixedPricedAddition.new(PercentagePricedAddition.new(Product.new('Coffee', 2.00), 'Cream', 0.20), 'Sugar', 0.50).price
